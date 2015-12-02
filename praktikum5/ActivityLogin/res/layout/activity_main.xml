@@ -12,7 +12,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp"
-        android:text="Tugas 4513120024 || Mochammad Fahrudin"
+        android:text="Tugas 4513210024 || Mochammad Fahrudin"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
